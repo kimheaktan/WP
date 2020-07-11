@@ -1,5 +1,4 @@
-# WeddingPanner
-Built with: C# | ASP .Net Core | Bootstrap | Google Maps APIs
-A Web app where users can create and join/attend weddings
-Login/Reg Validation
-Password bcrypt encryption
+• Built with: C# | ASP .Net Core | Google Maps APIs | Password Bcrypt Encryption | Responsive Design 
+| LINQ | HTML | Bootstrap | CSS
+
+• Wedding Planner is a responsive Web app where users can create and attend weddings, and view a list of weddings they are attending.
